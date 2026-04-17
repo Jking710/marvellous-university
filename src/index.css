@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply antialiased;
+  }
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  nav {
+    display: none !important;
+  }
+  body {
+    background: white !important;
+  }
+}
