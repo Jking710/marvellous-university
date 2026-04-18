@@ -18,10 +18,10 @@ import un7 from "../assets/UN5.jpeg";
 import un8 from "../assets/UN16.png";
 import un9 from "../assets/UN15.png";
 import un10 from "../assets/UN13.png";
-import logo from "../assets/icon1.png";
-import logo2 from "../assets/icon2.png";
-import logo3 from "../assets/icon3.png";
-import logo4 from "../assets/icon4.png";
+import logo from "../assets/Icon1.png";
+import logo2 from "../assets/Icon2.png";
+import logo3 from "../assets/Icon3.png";
+import logo4 from "../assets/Icon4.png";
 
 // ─── Data (unchanged) ────────────────────────────────────────────────────────
 const stats = [
